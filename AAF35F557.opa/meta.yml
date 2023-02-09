@@ -1,0 +1,22 @@
+id: AAF35F557
+title: 'MSV 2,0: Prātimokṣasūtra'
+type: translation
+pechas:
+- I7727FD99
+- I81D67448
+- IC11D8CCD
+- I48D8D7EE
+source_metadata:
+  languages:
+  - sa
+  - bo
+  - zh
+  - en
+  datatype: PlainText
+  created_at: 2023-02-09 15:14:00.313927
+  last_modified_at: 2023-02-09 15:14:00.313939
+alignment_to_base:
+  I7727FD99/DD41: 6A9A
+  I81D67448/B4F3: 6A9A
+  IC11D8CCD/61B2: 6A9A
+  I48D8D7EE/045E: 6A9A
